@@ -95,6 +95,14 @@ for (let i = rev.length - 1;
 }
 console.log("reverse using for loop:", rev)
 
+// print array using for loop
+
+let a = [1, 2, 3, 4, 5]
+for (let i = 0; i < a.length; i++) {
+    const element = a[i];
+}
+console.log("🚀 ~ a:", a)
+
 
 
 
